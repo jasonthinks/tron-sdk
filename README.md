@@ -39,6 +39,5 @@ mvn install:install-file -Dfile=rt.jar -DgroupId=jdk8 -DartifactId=java-rt -Dver
 
 ## 联系方式
 
-telegram: @TrickyZh
+telegram: @TrickyZh  （不教学）
 
-QQ: 420713155
